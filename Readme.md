@@ -24,3 +24,10 @@
 <li>Load the reshape2 package. Using melt and dcast create the tidy dataset</li>
 <li>Export the tidy_data dataset</li>
 </ol>
+
+<h3>Note</h3>
+<ul>
+<li>x_* - feature values</li>
+<li>y_* - activity identifiers</li>
+<li>subject_ - subject identifiers for rows in x_*</li>
+</ul>
