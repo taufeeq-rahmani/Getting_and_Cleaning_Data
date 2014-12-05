@@ -1,3 +1,6 @@
+#Getting and Cleaning Data
+#Author: Taufeeq Rahmani
+
 #Load the files in the respective datasets
 x_test<-read.table("./test/X_test.txt")
 dim(x_test)   #2947*561
